@@ -1,4 +1,4 @@
-# ** Objective**
+# **Objective**
 To evaluate the understanding of *AI Ethics Principles*. ability to identify and mitigate biases, and skills in applying ethical frameworks to real-world scenarios.
 We aim at analyzing case studies, audit systems and propose solutions to ethical dilemmas.
 
