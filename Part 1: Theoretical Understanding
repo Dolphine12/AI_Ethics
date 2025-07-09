@@ -1,32 +1,22 @@
 1. Short Answer Questions
 Q1: Define algorithmic bias and provide two examples of how it manifests in AI systems.
 Algorithmic bias occurs when an AI system produces unfair or discriminatory outcomes due to flawed assumptions, biased training data, or design choices.
-
 Examples:
 Hiring Algorithms: Amazon’s AI recruiting tool downgraded resumes containing words like "women’s" (e.g., "women’s chess club captain"), favoring male candidates.
-
 Facial Recognition: Some systems have higher error rates for darker-skinned individuals, leading to misidentification in law enforcement.
 
 Q2: Explain the difference between transparency and explainability in AI. Why are both important?
 Transparency refers to openly sharing how an AI system works, including its data sources, model architecture, and decision-making processes.
-
 Explainability ensures that AI decisions can be understood by humans, often through interpretable models or post-hoc explanations (e.g., SHAP values).
-
 Why both matter:
-
 Transparency builds trust with stakeholders (users, regulators).
-
 Explainability helps users and developers debug biases, comply with regulations (e.g., GDPR’s "right to explanation"), and improve model fairness.
 
 Q3: How does GDPR (General Data Protection Regulation) impact AI development in the EU?
 GDPR imposes strict rules on AI systems, including:
-
 Right to Explanation: Users can demand explanations for automated decisions affecting them (e.g., loan denials).
-
 Data Minimization: AI must use only necessary data, reducing privacy risks.
-
 Bias & Fairness: Developers must ensure AI does not discriminate (e.g., gender/racial bias in hiring).
-
 Accountability: Organizations must document AI decision-making processes for audits.
 
 2. Ethical Principles Matching
@@ -35,13 +25,11 @@ A) Justice	Fair distribution of AI benefits and risks.
 B) Non-maleficence	Ensuring AI does not harm individuals or society.
 C) Autonomy	Respecting users’ right to control their data and decisions.
 D) Sustainability	Designing AI to be environmentally friendly.
+
 Matching Answers:
+1. B (Non-maleficence)
+2. C (Autonomy)
+3. D (Sustainability)
+4. A (Justice)
 
-B (Non-maleficence)
-
-C (Autonomy)
-
-D (Sustainability)
-
-A (Justice)
 
